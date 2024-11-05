@@ -17,8 +17,3 @@ When I'm not busy dissecting packets or fortifying networks, I’m sharing insig
 
 Stay curious, stay secure – and remember, the only secure system is a vigilant one.
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
