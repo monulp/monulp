@@ -1,3 +1,5 @@
+<img align="centre" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJndDI1NGIwdjNvOXBheTBsc2V6OThucXM5eWJ3c2ZwMDNmdTd0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/ien7GyzlgSNdxj4pZM/giphy.gif"  />
+
 ### 🕶️ Code, Conquer, Secure 🕶️
 
 Greetings, digital wanderers! I'm Adil Monu, a cybersecurity professional on a mission to safeguard the invisible. As a relentless hunter of vulnerabilities, I thrive in the hidden spaces where data, systems, and humans intersect.
