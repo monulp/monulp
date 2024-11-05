@@ -10,6 +10,7 @@ From **penetration testing** to **incident response**, I craft solutions to keep
 When I'm not busy dissecting packets or fortifying networks, I’m sharing insights, building security tools, and creating fun, accessible cyber challenges for all levels. 
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM20yb2dtdzBwNjVvMHM2bHVvd2t2bXY0Y2F0dG92aWJyeWU1cnAwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqxVRm1IaaIGk/giphy.gif"  />
+
 #### 🌌 In my world:
 - 🧠 **Threats are puzzles** waiting to be solved.
 - 🛡️ **Defense is an art** that evolves daily.
