@@ -1,4 +1,6 @@
-<img src="https://www.flaticon.com/free-animated-icon/cyberterrorism_15597309?term=security&page=1&position=21&origin=tag&related_id=15597309" />
+
+![monochrome-cicada-poster-t9tk0r1gdffqqavk](https://github.com/user-attachments/assets/e4103126-4b29-4b40-b2bf-926a5708cca3)
+
 ### 🕶️ Code, Conquer, Secure 🕶️
 
 Greetings, digital wanderers! I'm Adil Monu, a cybersecurity professional on a mission to safeguard the invisible. As a relentless hunter of vulnerabilities, I thrive in the hidden spaces where data, systems, and humans intersect.
